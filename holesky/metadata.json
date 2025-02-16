@@ -2,6 +2,6 @@
   "name": "Chainsafe",
   "website": "https://chainsafe.io",
   "description": "Building the infrastructure for web3",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/ChainSafe/eigenlayer-operator-config/main/logo/chainsafe.png",
   "twitter": "https://x.com/ChainSafeth"
 }
